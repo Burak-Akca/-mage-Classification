@@ -1,1 +1,1 @@
-# -mage-Classification
+# Image-Classification
